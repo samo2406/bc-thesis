@@ -1,0 +1,6 @@
+*.csv
+*.ttl
+*.xml
+*.DS_Store
+*.cpython-39.pyc
+*.spec

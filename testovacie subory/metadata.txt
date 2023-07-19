@@ -1,0 +1,5 @@
+Autor=Ministersto spravodlivosti Slovenskej republiky
+Poskytovatel datasetu=Ministersto spravodlivosti SR
+Jednoznacny identifikator poskytovatela datasetu=DB391D84-31CD-4953-82A8-06FC8D232239
+Datum prveho zverejnenia=14 September, 2021
+Lokalita=Slovensko
